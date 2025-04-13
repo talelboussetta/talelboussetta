@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:Not  failing this year's classes<br>🤝 I’m looking for help with:Physics<br>🌱 I’m currently learning:Competitive Programming<br>💬 Ask me about:Integrals <br>⚡ Fun fact:Expert at pen flips
+🔭 I’m currently working on:Not  failing this year's classes<br>🤝 I’m looking for help with:Physics<br>🌱 I’m currently learning:Data Science<br>💬 Ask me about:Integrals <br>⚡ Fun fact:Expert at pen flips
 
 
 ## 🌐 Socials:
