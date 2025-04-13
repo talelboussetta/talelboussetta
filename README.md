@@ -25,7 +25,10 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=talelboussetta&icon=0&color=0)](https://visitcount.itsvg.in)
-🔗 Also find me on [Kaggle]([(https://www.kaggle.com/talelboussetta)])
+🔗 🔗 Also find me on [Kaggle](https://www.kaggle.com/talelboussetta)
+
+📊 Checkout my most recent data science project using Scikit-learn, Pandas, and Matplotlib.
+
 
 📊 Checkout my most recent data science project using Scikit-learn, Pandas, and Matplotlib.
 
