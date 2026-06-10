@@ -2,14 +2,13 @@
  
 **AI Systems Engineer @ [Unifunl](https://unifunl.io) · Computer Vision @ IEEE RAS INSAT — Eurobot 2026 international finalist team · INSAT**
  
-I build production AI systems: multi-agent conversational architectures, multimodal RAG, and NLP for low-resource languages — specifically **Tunisian derja, French, and arabizi code-switching**, which is harder and more interesting than any benchmark dataset.
  
 ## Currently
  
-- 🏗️ Data engineering + LLM cost optimization on large-scale multilingual conversation data at Unifunl
-- 📋 Implementing **ISO/IEC 42001** (AI Management System) — internal audit + white paper, one of the first hands-on implementations in Tunisia
-- 🤖 Built the full perception stack (visual SLAM, EKF sensor fusion, RRT motion planning) for INSAT's Eurobot 2026 robot — qualified nationally, competed internationally
-- ✍️ Writing about real-world AI engineering and governance — implementation diaries, not tutorials
+-  designing AI systems at large-scale at Unifunl
+- **ISO/IEC 42001** (AI Management System) — internal audit + white paper.
+-  Built the full perception stack (visual SLAM, EKF sensor fusion, RRT motion planning) for INSAT's Eurobot 2026 robot — qualified nationally, competed internationally
+-  Writing about real-world AI engineering and governance — implementation diaries, not tutorials
 ## Selected work
  
 | Project | What it is |
