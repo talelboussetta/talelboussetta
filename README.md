@@ -14,7 +14,7 @@
 | Project | What it is |
 |---|---|
 | [FocusGuard-ML](https://github.com/talelboussetta/FocusGuard-ML) | Real-time multimodal focus tracking — YOLO + MediaPipe + behavioral telemetry, full-stack deployment |
-| [Eurobot 2026 Computer Vision](https://github.com/INSATEURO2026/Computer_vision) | ArUco visual SLAM, camera calibration, Kalman filtering on embedded hardware |
+| [Eurobot 2026 Computer Vision](https://github.com/INSATEURO2026/Euro_vision) | ArUco visual SLAM, camera calibration, Kalman filtering on embedded hardware |
 | [HackFarm](https://github.com/talelboussetta/HackFarm) | AI multi-agent hackathon project generator |
  
 🏆 1st place — Anavid Computer Vision Hackathon 2025 · 1st place — IEEE DataOverflow DataQuest 2025
